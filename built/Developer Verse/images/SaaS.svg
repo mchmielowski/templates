@@ -1,0 +1,35 @@
+<svg width="910" height="1365" viewBox="0 0 910 1365" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_355_591)">
+<g filter="url(#filter0_f_355_591)">
+<circle cx="302.692" cy="302.692" r="302.692" transform="matrix(-0.859293 0.511483 0.511483 0.859293 935.57 70.375)" fill="url(#paint0_linear_355_591)"/>
+</g>
+<g filter="url(#filter1_f_355_591)">
+<rect x="1033.95" y="821.405" width="290.879" height="412.694" transform="rotate(-149.237 1033.95 821.405)" fill="url(#paint1_linear_355_591)"/>
+</g>
+<rect width="325.161" height="107.54" transform="matrix(-0.859293 0.511483 0.511483 0.859293 892.828 311.414)" fill="#D9D9D9" fill-opacity="0.01"/>
+</g>
+<defs>
+<filter id="filter0_f_355_591" x="379.9" y="34.9052" width="900.785" height="900.785" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="73.8272" result="effect1_foregroundBlur_355_591"/>
+</filter>
+<filter id="filter1_f_355_591" x="636.346" y="170.346" width="756.344" height="798.714" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="73.8272" result="effect1_foregroundBlur_355_591"/>
+</filter>
+<linearGradient id="paint0_linear_355_591" x1="302.692" y1="0" x2="302.692" y2="605.383" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ECDED5"/>
+<stop offset="1" stop-color="#FFB13E"/>
+</linearGradient>
+<linearGradient id="paint1_linear_355_591" x1="1179.39" y1="821.405" x2="1179.39" y2="1234.1" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF5858"/>
+<stop offset="0.28125" stop-color="#FF9978"/>
+<stop offset="1" stop-color="#FFCBCB"/>
+</linearGradient>
+<clipPath id="clip0_355_591">
+<rect width="1319.13" height="989.346" fill="white" transform="matrix(-0.859293 0.511483 0.511483 0.859293 1133.52 -160)"/>
+</clipPath>
+</defs>
+</svg>

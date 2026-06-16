@@ -1,0 +1,35 @@
+<svg width="1037" height="988" viewBox="0 0 1037 988" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_372_4342)">
+<g filter="url(#filter0_f_372_4342)">
+<circle cx="343.15" cy="416.305" r="267.646" transform="rotate(-5.78096 343.15 416.305)" fill="url(#paint0_linear_372_4342)"/>
+</g>
+<g filter="url(#filter1_f_372_4342)">
+<rect x="213.164" y="409.125" width="257.201" height="364.912" transform="rotate(-5.78096 213.164 409.125)" fill="url(#paint1_linear_372_4342)"/>
+</g>
+<rect x="207.176" y="325.707" width="287.513" height="95.089" transform="rotate(-5.78096 207.176 325.707)" fill="#D9D9D9" fill-opacity="0.01"/>
+</g>
+<defs>
+<filter id="filter0_f_372_4342" x="-55.0745" y="18.0798" width="796.45" height="796.451" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="65.2794" result="effect1_foregroundBlur_372_4342"/>
+</filter>
+<filter id="filter1_f_372_4342" x="82.6052" y="252.66" width="553.766" height="650.08" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="65.2794" result="effect1_foregroundBlur_372_4342"/>
+</filter>
+<linearGradient id="paint0_linear_372_4342" x1="343.15" y1="148.66" x2="343.15" y2="683.951" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ECDED5"/>
+<stop offset="1" stop-color="#FFB13E"/>
+</linearGradient>
+<linearGradient id="paint1_linear_372_4342" x1="341.765" y1="409.125" x2="341.765" y2="774.037" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF5858"/>
+<stop offset="0.28125" stop-color="#FF9978"/>
+<stop offset="1" stop-color="#FFCBCB"/>
+</linearGradient>
+<clipPath id="clip0_372_4342">
+<rect width="1166.4" height="874.798" fill="white" transform="translate(-212 117.542) rotate(-5.78096)"/>
+</clipPath>
+</defs>
+</svg>

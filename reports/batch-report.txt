@@ -1,0 +1,71 @@
+
+== CLEAN (18) ==
+  Butterfly
+  CRTFY
+  Creatify
+  Developer Verse
+  Future Studio
+  GSAP Field
+  Grained
+  Greyhound
+  Greyound Ecommerce
+  Infinit
+  Jazzmin Hughes
+  Sculpt
+  Skill Sprint
+  Slow Mo
+  Sunshine Mind
+  Swift Cloud
+  Trend Trail
+  aiaiaiai
+
+== ADAPTIVE (45) ==
+  &Fold
+  ALL ABT
+  ArtVista
+  Bluepoint
+  Bobolobo
+  Cargo+
+  CodeWave
+  Codepro
+  Consult Corner
+  Consult House
+  Consult Vision
+  Dental Health
+  Echo
+  Evermind
+  FRANCO
+  Foll
+  For Human
+  Forerunner
+  Foster & Reeves
+  Good Folks
+  Halden Miller
+  Harbor
+  Hollow
+  Human Machine
+  Human.IN
+  Hummingbird
+  Lavender Shore
+  Modulabs
+  Monolith
+  Nerdstack
+  Nothing™
+  OFF THE GRID
+  Peacock
+  Reforma
+  Sophia
+  Sound Stories
+  Sprkles
+  Strobe
+  Superior Space
+  Superior Space Lite
+  Tech Porter
+  Template The Creator
+  Terra Tory
+  The Smiling Agency
+  UNIT01
+
+== HARD (0) ==
+
+== ERROR (0) ==

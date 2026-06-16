@@ -1,0 +1,9 @@
+# raw Webflow exports (source) + zips — not tracked
+exports/
+*.zip
+# huge static background videos (5.9GB) — keep local; use Git LFS if you want them versioned
+videos/
+# misc
+node_modules/
+.DS_Store
+reports/*.log

@@ -1,0 +1,35 @@
+<svg width="1000" height="988" viewBox="0 0 1000 988" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_372_4337)">
+<g filter="url(#filter0_f_372_4337)">
+<circle cx="555.149" cy="416.306" r="267.646" transform="rotate(-5.78096 555.149 416.306)" fill="url(#paint0_linear_372_4337)"/>
+</g>
+<g filter="url(#filter1_f_372_4337)">
+<rect x="425.164" y="409.126" width="257.201" height="364.912" transform="rotate(-5.78096 425.164 409.126)" fill="url(#paint1_linear_372_4337)"/>
+</g>
+<rect x="419.176" y="325.708" width="287.513" height="95.089" transform="rotate(-5.78096 419.176 325.708)" fill="#D9D9D9" fill-opacity="0.01"/>
+</g>
+<defs>
+<filter id="filter0_f_372_4337" x="156.926" y="18.0808" width="796.45" height="796.451" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="65.2794" result="effect1_foregroundBlur_372_4337"/>
+</filter>
+<filter id="filter1_f_372_4337" x="294.605" y="252.661" width="553.766" height="650.08" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="65.2794" result="effect1_foregroundBlur_372_4337"/>
+</filter>
+<linearGradient id="paint0_linear_372_4337" x1="555.149" y1="148.661" x2="555.149" y2="683.952" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ECDED5"/>
+<stop offset="1" stop-color="#FFB13E"/>
+</linearGradient>
+<linearGradient id="paint1_linear_372_4337" x1="553.765" y1="409.126" x2="553.765" y2="774.038" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF5858"/>
+<stop offset="0.28125" stop-color="#FF9978"/>
+<stop offset="1" stop-color="#FFCBCB"/>
+</linearGradient>
+<clipPath id="clip0_372_4337">
+<rect width="1166.4" height="874.798" fill="white" transform="translate(0 117.543) rotate(-5.78096)"/>
+</clipPath>
+</defs>
+</svg>

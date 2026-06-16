@@ -1,0 +1,13 @@
+<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-64" y="-64" width="172" height="172"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(32px);clip-path:url(#bgblur_0_28193_3613_clip_path);height:100%;width:100%"></div></foreignObject><g data-figma-bg-blur-radius="64">
+<mask id="path-1-inside-1_28193_3613" fill="white">
+<path d="M0 22C0 9.84974 9.84974 0 22 0C34.1503 0 44 9.84974 44 22C44 34.1503 34.1503 44 22 44C9.84974 44 0 34.1503 0 22Z"/>
+</mask>
+<path d="M0 22C0 9.84974 9.84974 0 22 0C34.1503 0 44 9.84974 44 22C44 34.1503 34.1503 44 22 44C9.84974 44 0 34.1503 0 22Z" fill="#1A1A17" fill-opacity="0.32"/>
+<path d="M22 44V43C10.402 43 1 33.598 1 22H0H-1C-1 34.7025 9.29745 45 22 45V44ZM44 22H43C43 33.598 33.598 43 22 43V44V45C34.7025 45 45 34.7025 45 22H44ZM22 0V1C33.598 1 43 10.402 43 22H44H45C45 9.29745 34.7025 -1 22 -1V0ZM22 0V-1C9.29745 -1 -1 9.29745 -1 22H0H1C1 10.402 10.402 1 22 1V0Z" fill="#F4F3EA" fill-opacity="0.32" mask="url(#path-1-inside-1_28193_3613)"/>
+<path d="M17 14.5L28.6667 22L17 29.5V14.5Z" fill="#F4F3EA" stroke="#F4F3EA" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="bgblur_0_28193_3613_clip_path" transform="translate(64 64)"><path d="M0 22C0 9.84974 9.84974 0 22 0C34.1503 0 44 9.84974 44 22C44 34.1503 34.1503 44 22 44C9.84974 44 0 34.1503 0 22Z"/>
+</clipPath></defs>
+</svg>
