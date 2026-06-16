@@ -587,7 +587,7 @@ figcaption {
   color: var(--color-neutral-light-100);
 }
 
-.section.figma-x-webflow-section {
+.section.figma-section {
   padding-top: var(--section-padding-medium);
   padding-bottom: var(--section-padding-medium);
 }
@@ -3230,7 +3230,7 @@ figcaption {
   display: flex;
 }
 
-.button-wrap-figma-x-webflow {
+.button-wrap-figma {
   grid-column-gap: var(--spacing-8);
   grid-row-gap: var(--spacing-8);
   flex-flow: wrap;

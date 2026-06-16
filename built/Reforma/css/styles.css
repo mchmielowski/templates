@@ -1635,7 +1635,7 @@ figcaption {
   font-weight: var(--typography-weight-body-bold);
 }
 
-.button-group_figma-x-webflow {
+.button-group_figma {
   grid-column-gap: var(--spacing-space-hairline);
   grid-row-gap: var(--spacing-space-hairline);
   flex-flow: wrap;
@@ -1876,7 +1876,7 @@ figcaption {
   padding-bottom: var(--section-padding-small);
 }
 
-.section_overview-system, .section_webflow-x-figma {
+.section_overview-system, .section_figma {
   padding-top: var(--section-padding-medium);
   padding-bottom: var(--section-padding-medium);
 }

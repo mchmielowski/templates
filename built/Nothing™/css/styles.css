@@ -718,7 +718,7 @@ figcaption {
   --color-tokens-input-error-border: var(--color-base-neutral-light-0);
 }
 
-.section.overview-system-section, .section.figma-x-webflow-section {
+.section.overview-system-section, .section.figma-section {
   padding-top: var(--section-padding-medium);
   padding-bottom: var(--section-padding-medium);
   --color-tokens-background-base: var(--color-base-background-base-dark);
@@ -2859,7 +2859,7 @@ figcaption {
   font-weight: var(--typography-weight-body-bold);
 }
 
-.button-wrap-figma-x-webflow {
+.button-wrap-figma {
   grid-column-gap: var(--spacing-8);
   grid-row-gap: var(--spacing-8);
   flex-flow: wrap;
