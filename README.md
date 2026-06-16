@@ -15,8 +15,10 @@ All 63 live in `built/<Template>/` and pass QA.
 
 | Aspect | State |
 | --- | --- |
-| De-Webflowed (attribution, emoji tokens, demo overlay, fingerprints, file renames) | ✅ all 63 |
-| Self-contained JS (jQuery + GSAP vendored locally, no external CDN) | ✅ all 63 |
+| De-Webflowed *visible branding* (attribution, emoji tokens, demo overlay, "Webflow" word, file renames) | ✅ all 63 |
+| Webflow *runtime markers* (`data-w-id`, `w-*`, `data-wf-page`) | ⚠️ **retained on purpose** — `js/main.js` IS the IX2 interactions engine; removing them breaks every animation/nav/slider (see each CLAUDE.md). Not a leak that can be stripped without re-authoring all motion in GSAP. |
+| Zero external requests (jQuery + GSAP + **fonts** vendored locally; dead Google-Fonts preconnects removed) | ✅ all 63 — `clean_leftovers.py` |
+| 401 password page (dead `/.wf_auth` action + unrendered `<%WF_FORM_VALUE%>` tokens neutralized) | ✅ all 63 — `clean_leftovers.py` |
 | Content filled (CMS cards, listings) with realistic on-theme copy | ✅ all 63 |
 | Placeholder/lorem text removed (except intentional `style-guide.html` specimens) | ✅ all 63 |
 | Blank `<img src="">` filled | ✅ all 63 (239 fixed) |
@@ -59,6 +61,7 @@ reports/    batch reports + run logs (logs git-ignored)
 | `batch.py <exports> <built>` | run `build.py` + `qa.py` over all, in parallel; writes `reports/batch-report.txt` |
 | `qa.py <folder>` | publish-invariant gate → exit 0 CLEAN / 3 needs-content / 1 hard-fail |
 | `fix_screenshots.py <folder> [--apply]` | detect & swap page-screenshots/blank `<img>` for content photos (dimension-based, webp/png/avif/jpeg, HTML + CSS) |
+| `clean_leftovers.py <dir> [--apply]` | remove non-functional Webflow leftovers safely: dead Google-Fonts preconnect hints (fonts are local), `/.wf_auth` action + `<%WF_FORM_VALUE%>` tokens on the 401 page. Leaves the load-bearing IX2 runtime (`data-w-id`/`w-*`) intact |
 | `prune.py <folder>` | delete unreferenced images |
 | `finalize.py <folder>` | prune + QA (run after any content pass) |
 | `gen_ai_guide.py <folder>` | write per-template `CLAUDE.md` + `.cursorrules` |
