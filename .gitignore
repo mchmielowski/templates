@@ -7,3 +7,6 @@ videos/
 node_modules/
 .DS_Store
 reports/*.log
+
+# local working notes
+*.local.md
